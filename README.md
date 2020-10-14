@@ -9,7 +9,7 @@ In Windows
      (base) C:\Users\XXXX>python address_of_python_program\track.py --video address_of_video\videoname.format
 3. To use webcam type:
      (base) C:\Users\XXXX>python address_of_python_program\track.py
-     --video is a switch to use a particular video
+4.--video is a switch to use a particular video
      
  In Ubuntu
  open Terminal
@@ -17,7 +17,7 @@ In Windows
      $ python address_of_python_program\track.py --video address_of_video\videoname.format
  2. To use webcam type:
      $ python address_of_python_program\track.py
-     --video is a switch to use a particular video
+ 3.--video is a switch to use a particular video
      
 To select an region of Intrest ROI press i to pause and select four points to make a ROI and then press enter.
 To quit simply press q.
