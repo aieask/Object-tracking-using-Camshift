@@ -1,6 +1,7 @@
 # Object-tracking-using-Camshift
 Worked on Camshift algorithm to track selected object in a webcam stream or video using OpenCV and Python.
 To work with this code follow these following instructions:
+
 In Windows
 1. Open Command terminal in Anaconda Navigator(anaconda3) i.e. CMD.exe Prompt
     be causious to see that:  (base) C:\Users\XXXX>
